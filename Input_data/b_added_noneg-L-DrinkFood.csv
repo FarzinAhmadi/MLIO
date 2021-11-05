@@ -1,0 +1,23 @@
+nutrient_amount,nutrient_name ,nutrient_bound
+3133.162285,Food energy (kcal),U
+384.9685715,Carbohydrate (g),U
+136.6585715,Protein (g),U
+127.212,"Fat, total (g)",U
+212.568,"Sugars, total (g)",U
+60.108,"Dietary fiber, total (g)",U
+25.68082285,"Saturated fatty acids, total (gm)",U
+195.12,Cholesterol (mg),U
+19.59270857,Iron (mg),U
+2564.725715,Sodium (mg),U
+96,Caffeine (mg),U
+-1068.8,Food energy (kcal),L
+-147.2430149,Carbohydrate (g),L
+-35.3415554,Protein (g),L
+-42.44607769,"Fat, total (g)",L
+-76.8338753,"Sugars, total (g)",L
+-25.25787132,"Dietary fiber, total (g)",L
+-7.943329679,"Saturated fatty acids, total (gm)",L
+-15.68173181,Cholesterol (mg),L
+-7.01583053,Iron (mg),L
+-946.8313832,Sodium (mg),L
+0,Caffeine (mg),L
